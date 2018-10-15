@@ -185,8 +185,8 @@
 		"TweekiSkinCustomizedBootstrap": null,
 		"TweekiSkinImagePageTOCTabs": false,
 		"TweekiSkinGridNone": { 
-			"mainoffset": 1, 
-			"mainwidth": 10 
+			"mainoffset": 0, 
+			"mainwidth": 12 
 		},
 		"TweekiSkinGridLeft": { 
 			"leftoffset": 0, 
